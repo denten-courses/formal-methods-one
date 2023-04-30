@@ -1,7 +1,7 @@
 ---
 semester: Fall 2023
 number: CLEN 6xxx
-title: "Formal Methods in Textual Analysis I"
+title: "Formal Methods in Text Analysis I"
 instructor: Dennis Yi Tenen
 email: dt2406@columbia.edu
 ---
