@@ -1,10 +1,31 @@
 ---
-semester: Fall 2023
-number: CLEN 6xxx
-title: "Formal Methods in Text Analysis I"
-instructor: Dennis Yi Tenen
-email: dt2406@columbia.edu
+mainfont: "fbb"
+documentclass: article
+fontsize: 12pt
+date:
+classoption: none
+geometry: margin=1.2in
+header-includes:
+- \usepackage{fancyhdr, array, ifthen}
+- \usepackage[margins=raggedright]{floatrow}
+- \newcommand{\sectionbreak}{\clearpage}
+- \pagestyle{fancy}
+- \fancyhf{}
+- \renewcommand{\headrulewidth}{0pt}
+- | 
+    \rhead{
+        \ifthenelse{\value{page}=1}
+        {\textbf{Formal Methods in Text Analysis I} | Dennis Yi Tenen }
+        {}
+    }
 ---
+
+| Semester:                 | Fall 2023                         |
+|---------------------------|-----------------------------------|
+| Course Title:             | Formal Methods in Text Analysis I |
+| Course Number:            | CLEN 6xxx                         |
+| Contact:                  | dt2406@columbia.edu               |
+| Office Hours:             | TBA                               |
 
 ## Course Description
 
@@ -32,12 +53,8 @@ online, and to develop a research project that will culminate in a paper. Advanc
 will have the option to integrate the course's themes with the subject matter of their
 expertise.
 
-| Class participation                      | 25%  |
-|------------------------------------------|------|
-| Class Participation                      | 25%  |
-| Informal weekly response online forum    | 25%  |
-| Midterm project proposal                 | 20%  |
-| Final paper                              | 30%  |
+Grade breakdown as follows: Class Participation 25%, weekly response online forum 25%, Midterm
+project proposal 20%, Final project 30%.
 
 ## University Policies
 
@@ -67,7 +84,7 @@ Principles of exploratory analysis. Sample bias. The commensurability of claim a
 Common formats. Plain text. File paths. Reading and writing files. Python by osmosis. Units of
 analysis: character, word, sentence, paragraph, story, plot, discourse, archive.
 
-## Week 3: Words
+### Week 3: Words
 
 What is a word? Stem and lemma. Parts of speech. What they signify.
 
@@ -77,7 +94,7 @@ What is a word? Stem and lemma. Parts of speech. What they signify.
   English Prose and Poetry (Boston: Ginn, 1893).
 - "Words on Words" by David Kaplan in 2011 *Journal of Philosophy* 108 (9):504-529.
 
-## Week 4: Counting words
+### Week 4: Counting words
 
 Object flow approach. Understanding types. Basic control structures. Word counts.
 
@@ -120,11 +137,13 @@ Proper names. Named entities. Nouns and objects.
 
 Types of space and distance. Document similarity. Clutter.
 
-- Susan Grunewald and Andrew Janco, “Finding Places in Text with the World Historical
-  Gazeteer,” Programming Historian, February 11, 2022,
-https://programminghistorian.org/en/lessons/finding-places-world-historical-gazetteer.
+- Susan Grunewald and Andrew Janco, “[Finding Places in Text with the World Historical
+  Gazeteer][81],” Programming Historian, February 11, 2022.
 - Selections from Michel Marie Deza and Elena Deza, *Dictionary of Distances* (Elsevier
   Science, 2006).
+
+[81]: https://programminghistorian.org/en/lessons/finding-places-world-historical-gazetteer
+
 
 ### Week 9: Syntax
 
@@ -164,7 +183,7 @@ Finding the author. Ways of establishing authority.
 - Paul Rabinow, “Discourse and Power: On the Limits of Ethnographic Texts,” *Dialectical
   Anthropology* 10, no. 1/2 (1985): 1–13.
 
-### Week 13: Project Workshop I
+### Week 13 & 14: Project Workshops
 
 Topics not covered in this class. Change over time. Ways forward. Building models revisited.
 Plot, narrative. Readings on vectorization, topic modeling, network analysis.
@@ -172,8 +191,4 @@ Plot, narrative. Readings on vectorization, topic modeling, network analysis.
 - Selections from Martin Paul Eve, *Close Reading with Computers: Textual Scholarship,
   Computational Formalism* (Stanford University Press, 2019).
 
-Brainstorm final project in class.
-
-### Week 14: Project Workshop II
-
-Present final project proposals in class.
+Brainstorm final project in class. Present final project proposals during the second session.
