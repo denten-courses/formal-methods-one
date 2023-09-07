@@ -74,25 +74,32 @@ analysis in other disciplines. Strengths and limitations of the approach. From i
 model. Scale of analysis. Methods. Making the trip back to theory. Asking the right questions.
 Principles of exploratory analysis. Sample bias. The commensurability of claim and evidence.
 
-- Selections from John Tukey, Exploratory Data Analysis, (Reading, Mass: Pearson, 1977).
-- Boris Eichenbaum, Beth Paul, and Muriel Nesbitt, “The Structure of Gogol’s ‘The Overcoat,’”
-  The Russian Review 22, no. 4 (1963): 377–99.
-- Andrew Piper, “Think Small: On Literary Modeling,” PMLA, September 18, 2017.
+- Boris Eichenbaum, Beth Paul, and Muriel Nesbitt, “[The Structure of Gogol’s ‘The
+  Overcoat,’][12]” The Russian Review 22, no. 4 (1963): 377–99.
+- "Preface" and "Qualitative Detective Work" pages in John Tukey, [*Exploratory Data
+  Analysis*][11], (Reading, Mass: Pearson, 1977).
+- Andrew Piper, “[Think Small: On Literary Modeling][13],” *PMLA*, September 18, 2017.
 
-### Week 2: Working with data
+[11]: https://courseworks2.columbia.edu/courses/183356/files?preview=18278964
+[12]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/126672
+[13]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/27037379?searchText=andrew+piper+think+small&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dandrew%2Bpiper%2Bthink%2Bsmall&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3Ac61ce26d39b4ef126acea1deb4c08d84
 
-Common formats. Plain text. File paths. Reading and writing files. Python by osmosis. Units of
-analysis: character, word, sentence, paragraph, story, plot, discourse, archive.
+Lab 1: Common formats. Plain text. File paths. Reading and writing files. Python by osmosis.
+Units of analysis: character, word, sentence, paragraph, story, plot, discourse, archive.
 
 ### Week 3: Words
 
 What is a word? Stem and lemma. Parts of speech. What they signify.
 
-- Selections from Vernon Lee (Violet Paget), *The Handling of Words and Other Studies in
-  Literary Psychology* (London: J. Lane, 1923).
+- Chapters I and II ("On Literary Construction" and "On Style") from Vernon Lee (Violet Paget),
+  [*The Handling of Words and Other Studies in Literary Psychology*][31] (London: J. Lane,
+  1923).
 - Selections from L. A. Sherman, Analytics of Literature, a Manual for the Objective Study of
   English Prose and Poetry (Boston: Ginn, 1893).
 - "Words on Words" by David Kaplan in 2011 *Journal of Philosophy* 108 (9):504-529.
+
+[31]: https://ia903001.us.archive.org/3/items/handlingofwordso0000leev/handlingofwordso0000leev.pdf
+
 
 ### Week 4: Counting words
 
