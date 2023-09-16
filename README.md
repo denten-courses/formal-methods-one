@@ -102,7 +102,7 @@ Character encoding. What can we do with letters? Formats.
   Francis Bacon.
 - "Epistle," "To the Reader," and Chapter I (pages 385 -- 403) from [*An Essay Towards a Real
   Character, and a Philosophical Language*][21] (1668) by John Wilkins.
-- "Chapter 4: Recondite Surfaces" in [*Plain Text*][ (2017) from Dennis Yi Tenen.
+- "Chapter 4: Recondite Surfaces" in [*Plain Text*][23] (2017) from Dennis Yi Tenen.
 - Markov, A. A. “[An Example of Statistical Investigation of the Text Eugene Onegin Concerning
   the Connection of Samples in Chains][22].” Science in Context 19, no. 4 (December 2006
   [1914]): 591–600.
