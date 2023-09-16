@@ -66,13 +66,19 @@ such as ChatGPT and Copilot, in class.
 
 ## Provisional Schedule & Reading List
 
+## Week 0: Introductions.
+
+Structure of the course. Policies, grading, requirements. What to expect. Experimental teaching
+of the course. (Lab on Fridays?)
+
 ### Week 1: Formal methods
 
-Structure of the course. Policies, grading, requirements. Formalism and structuralism
-historically considered. Common misconceptions. Formal analysis vs. analysis of forms. Formal
-analysis in other disciplines. Strengths and limitations of the approach. From intuition to
-model. Scale of analysis. Methods. Making the trip back to theory. Asking the right questions.
-Principles of exploratory analysis. Sample bias. The commensurability of claim and evidence.
+Formalism and structuralism historically considered. Common misconceptions. Formal analysis vs.
+analysis of forms. Formal analysis in other disciplines. Strengths and limitations of the
+approach. From intuition to model. Scale of analysis. Methods. Making the trip back to theory.
+Asking the right questions. Principles of exploratory analysis. Sample bias. The
+commensurability of claim and evidence. Sample and population. Exploration vs. confirmation.
+Occam's razor (principle of parsimony, minimal viability).
 
 - Boris Eichenbaum, Beth Paul, and Muriel Nesbitt, “[The Structure of Gogol’s ‘The
   Overcoat,’][12]” The Russian Review 22, no. 4 (1963): 377–99.
@@ -84,10 +90,38 @@ Principles of exploratory analysis. Sample bias. The commensurability of claim a
 [12]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/126672
 [13]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/27037379?searchText=andrew+piper+think+small&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dandrew%2Bpiper%2Bthink%2Bsmall&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3Ac61ce26d39b4ef126acea1deb4c08d84
 
-Lab 1: Common formats. Plain text. File paths. Reading and writing files. Python by osmosis.
+Lab 1: Intro to command line. File paths. Reading and writing files. Python by osmosis.
 Units of analysis: character, word, sentence, paragraph, story, plot, discourse, archive.
 
-### Week 3: Words
+## Week 2: Character
+
+What is a character? The history of (encoding) alphabets. Glyphs and hieroglyphs. Telegraph codes.
+Character encoding. What can we do with letters? Formats.
+
+- Sixth Book, Chapter 1 (pages 247 -- 259) in the [*Advancement of Learning*][24] (1605) by
+  Francis Bacon.
+- "Epistle," "To the Reader," and Chapter I (pages 385 -- 403) from [*An Essay Towards a Real
+  Character, and a Philosophical Language*][21] (1668) by John Wilkins.
+- "Chapter 4: Recondite Surfaces" in [*Plain Text*][ (2017) from Dennis Yi Tenen.
+- Markov, A. A. “[An Example of Statistical Investigation of the Text Eugene Onegin Concerning
+  the Connection of Samples in Chains][22].” Science in Context 19, no. 4 (December 2006
+  [1914]): 591–600.
+
+Lab 2:  Plain text. Counting letters. 
+
+[21]: https://ia800405.us.archive.org/20/items/AnEssayTowardsARealCharacterAndAPhilosophicalLanguage/An_Essay_Towards_a_Real_Character_and_a.pdf
+[22]: https://www-cambridge-org.ezproxy.cul.columbia.edu/core/services/aop-cambridge-core/content/view/EA1E005FA0BC4522399A4E9DA0304862/S0269889706001074a.pdf/an_example_of_statistical_investigation_of_the_text_eugene_onegin_concerning_the_connection_of_samples_in_chains.pdf
+[23]: https://courseworks2.columbia.edu/courses/183356/files?preview=18358730
+[24]: https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1433/0414_Bk.pdf
+
+
+
+## Week 3: Syllable, meter
+
+Lab 3: Versification.
+
+
+### Week 4: Words
 
 What is a word? Stem and lemma. Parts of speech. What they signify.
 
