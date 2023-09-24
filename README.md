@@ -127,6 +127,7 @@ Lab 2:  Plain text. Counting letters.
 
 [31]: https://courseworks2.columbia.edu/courses/183356/files?preview=18445549
 [32]: https://journals.sagepub.com/doi/full/10.1177/0023830919881479#bibr13-0023830919881479
+[33]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/416278 
 
 Lab 3: Versification.
 
