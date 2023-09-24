@@ -115,7 +115,6 @@ Lab 2:  Plain text. Counting letters.
 [23]: https://courseworks2.columbia.edu/courses/183356/files?preview=18358730
 [24]: https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1433/0414_Bk.pdf
 
-
 ## Week 3: Syllable, meter
 
 - Chapters 1-6 in Fussell's [*Poetic Meter & Poetic Form*][31] (1979).
@@ -123,7 +122,7 @@ Lab 2:  Plain text. Counting letters.
   *Language* 72(3), pages 533–578.
 - "[Regional Variation in West and East Coast African-American English Prosody and Rap
   Flows][32]" by Steven Gilbers, Nienke Hoeksema, Kees De Bot, and Wander Lowie in *Language
-  and Speech*
+  and Speech*.
 
 [31]: https://courseworks2.columbia.edu/courses/183356/files?preview=18445549
 [32]: https://journals.sagepub.com/doi/full/10.1177/0023830919881479#bibr13-0023830919881479
@@ -145,7 +144,7 @@ What is a word? Stem and lemma. Parts of speech. What they signify.
 [31]: https://ia903001.us.archive.org/3/items/handlingofwordso0000leev/handlingofwordso0000leev.pdf
 
 
-### Week 4: Counting words
+### Week 5: Counting words
 
 Object flow approach. Understanding types. Basic control structures. Word counts.
 
@@ -154,7 +153,7 @@ by  Kate Burridge and Tonya N. Stebbins (Cambridge UP, 2019).
 - Selections form Christopher D. Manning and Hinrich Schütze, Foundations of Statistical
   Natural Language Processing, 1st edition (Cambridge, Mass: The MIT Press, 1999).
 
-### Week 5: Lexicon
+### Week 6: Lexicon
 
 Worldview, folk belief, discourse, ideology. Thematic clustering.
 
@@ -165,7 +164,7 @@ Sites,” JMIR Public Health and Surveillance 2, no. 2 (November 22, 2016): e658
 - Teun A. van Dijk, “Discourse Analysis as Ideology Analysis,” in Language & Peace (Routledge,
   1995).
 
-### Week 6: Sets and frequencies
+### Week 7: Sets and frequencies
 
 Normalization, stemming, lemma vitiation. Lexical set intersection. Term frequency, inverse
 term frequencies.
@@ -174,7 +173,7 @@ term frequencies.
   Introduction to Linguistics* by  Kate Burridge and Tonya N. Stebbins (Cambridge UP, 2019).
 - Set intersection tutorial.
 
-### Week 7: Names
+### Week 8: Names
 
 Proper names. Named entities. Nouns and objects.
 
@@ -184,7 +183,7 @@ Proper names. Named entities. Nouns and objects.
 - Selections from Kenton Rambsy, *The Geographies of African American Short Fiction* (Univ.
   Press of Mississippi, 2022).
 
-### Week 8: Mapping space and distances
+### Week 9: Mapping space and distances
 
 Types of space and distance. Document similarity. Clutter.
 
@@ -195,8 +194,7 @@ Types of space and distance. Document similarity. Clutter.
 
 [81]: https://programminghistorian.org/en/lessons/finding-places-world-historical-gazetteer
 
-
-### Week 9: Syntax
+### Week 10: Syntax
 
 What is a sentence. SVO. Length. Power dynamics.
 
@@ -206,7 +204,7 @@ What is a sentence. SVO. Length. Power dynamics.
   Application to Two Cases of Disputed Authorship,” Biometrika 30, no. 3/4 (1939): 363–90.
 - Yi Tenen, Dennis. "Distributed Agency in the Novel" in New Literary History (2023).
 
-### Week 10: Parsing Sentences
+### Week 11: Parsing Sentences
 
 Learn to extant SVO structures from sentences. Brainstorm models.
 
@@ -214,7 +212,7 @@ Learn to extant SVO structures from sentences. Brainstorm models.
   Introduction to Linguistics* by  Kate Burridge and Tonya N. Stebbins (Cambridge UP, 2019).
 - SVO Tutorial with Spacy.
 
-### Week 11: Narrative
+### Week 12: Narrative
 
 Story and plot arcs. Time and events. Authorship and authority.
 
@@ -225,7 +223,7 @@ Story and plot arcs. Time and events. Authorship and authority.
 - Selections from Inderjeet Mani, *The Imagined Moment: Time, Narrative, and Computation*
   (Lincoln: University of Nebraska Press, 2010).
 
-### Week 12: Authorship and authority
+### Week 13: Authorship and authority
 
 Finding the author. Ways of establishing authority.
 
@@ -234,7 +232,7 @@ Finding the author. Ways of establishing authority.
 - Paul Rabinow, “Discourse and Power: On the Limits of Ethnographic Texts,” *Dialectical
   Anthropology* 10, no. 1/2 (1985): 1–13.
 
-### Week 13 & 14: Project Workshops
+### Week 14: Project Workshops
 
 Topics not covered in this class. Change over time. Ways forward. Building models revisited.
 Plot, narrative. Readings on vectorization, topic modeling, network analysis.
