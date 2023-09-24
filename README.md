@@ -95,8 +95,9 @@ Units of analysis: character, word, sentence, paragraph, story, plot, discourse,
 
 ## Week 2: Character
 
-What is a character? The history of (encoding) alphabets. Glyphs and hieroglyphs. Telegraph codes.
-Character encoding. What can we do with letters? Formats.
+What is a character? The history of (encoding) alphabets. Glyphs and hieroglyphs. Telegraph
+codes. Character encoding. Encoding politics. Universal code and universal language. What can
+we do with letters?
 
 - Sixth Book, Chapter 1 (pages 247 -- 259) in the [*Advancement of Learning*][24] (1605) by
   Francis Bacon.
@@ -107,7 +108,7 @@ Character encoding. What can we do with letters? Formats.
   the Connection of Samples in Chains][22].” Science in Context 19, no. 4 (December 2006
   [1914]): 591–600.
 
-Lab 2:  Plain text. Counting letters. 
+Lab 2:  Plain text. Counting letters.
 
 [21]: https://ia800405.us.archive.org/20/items/AnEssayTowardsARealCharacterAndAPhilosophicalLanguage/An_Essay_Towards_a_Real_Character_and_a.pdf
 [22]: https://www-cambridge-org.ezproxy.cul.columbia.edu/core/services/aop-cambridge-core/content/view/EA1E005FA0BC4522399A4E9DA0304862/S0269889706001074a.pdf/an_example_of_statistical_investigation_of_the_text_eugene_onegin_concerning_the_connection_of_samples_in_chains.pdf
@@ -115,11 +116,19 @@ Lab 2:  Plain text. Counting letters.
 [24]: https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1433/0414_Bk.pdf
 
 
-
 ## Week 3: Syllable, meter
 
-Lab 3: Versification.
+- Chapters 1-6 in Fussell's [*Poetic Meter & Poetic Form*][31] (1979).
+- "[Universal Tendencies in the Semantics of the Diminutive][33]" by Daniel Jurafsky in.
+  *Language* 72(3), pages 533–578.
+- "[Regional Variation in West and East Coast African-American English Prosody and Rap
+  Flows][32]" by Steven Gilbers, Nienke Hoeksema, Kees De Bot, and Wander Lowie in *Language
+  and Speech*
 
+[31]: https://courseworks2.columbia.edu/courses/183356/files?preview=18445549
+[32]: https://journals.sagepub.com/doi/full/10.1177/0023830919881479#bibr13-0023830919881479
+
+Lab 3: Versification.
 
 ### Week 4: Words
 
