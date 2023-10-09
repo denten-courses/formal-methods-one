@@ -135,19 +135,19 @@ Lab 3: Versification.
 What is a word? Stem and lemma. Parts of speech. What they signify.
 
 - Chapters I and II ("On Literary Construction" and "On Style") from Vernon Lee (Violet Paget),
-  [*The Handling of Words and Other Studies in Literary Psychology*][31] (London: J. Lane,
+  [*The Handling of Words and Other Studies in Literary Psychology*][41] (London: J. Lane,
   1923).
 - Chapters 3, 4, and 6 from L. A. Sherman, [*Analytics of Literature, a Manual for the
-  Objective Study of English Prose and Poetry*][32] (Boston: Ginn, 1893).
-- "[Words on Words][33]" by David Kaplan in 2011 *Journal of Philosophy* 108 (9):504-529.
+  Objective Study of English Prose and Poetry*][42] (Boston: Ginn, 1893).
+- "[Words on Words][43]" by David Kaplan in 2011 *Journal of Philosophy* 108 (9):504-529.
 
-[31]: https://ia903001.us.archive.org/3/items/handlingofwordso0000leev/handlingofwordso0000leev.pdf
-[32]: https://archive.org/download/in.ernet.dli.2015.184135/2015.184135.Analytics-Of-Literature.pdf
-[33]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/23142919
-[34]: https://courseworks2.columbia.edu/courses/183356/files?preview=18648121
+[41]: https://ia903001.us.archive.org/3/items/handlingofwordso0000leev/handlingofwordso0000leev.pdf
+[42]: https://archive.org/download/in.ernet.dli.2015.184135/2015.184135.Analytics-Of-Literature.pdf
+[43]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/23142919
+[44]: https://courseworks2.columbia.edu/courses/183356/files?preview=18648121
 
 Special guest, Professor Jessica E. Merrill, Columbia Slavic. Prepare Chapter 1: Comparative
-Philology from her book, on the [*Origins of Russian Literary Theory*.][34]
+Philology from her book, on the [*Origins of Russian Literary Theory*.][44]
 
 
 ### Week 5: Counting words
