@@ -154,10 +154,13 @@ Philology from her book, on the [*Origins of Russian Literary Theory*.][44]
 
 Object flow approach. Understanding types. Basic control structures. Word counts.
 
+- “[Toward a Computational Archaeology of Fictional Space][51]” by DYT in *New Literary History* 49, no. 1 (2018): 119–47.
 - Chapter 4, "What's in a Word" from *For the Love of Language: An Introduction to Linguistics*
 by  Kate Burridge and Tonya N. Stebbins (Cambridge UP, 2019).
 - Selections form Christopher D. Manning and Hinrich Schütze, Foundations of Statistical
   Natural Language Processing, 1st edition (Cambridge, Mass: The MIT Press, 1999).
+
+  [51]: https://academiccommons.columbia.edu/doi/10.7916/D8QC1M5D
 
 ### Week 6: Lexicon
 
