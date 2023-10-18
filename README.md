@@ -139,12 +139,15 @@ What is a word? Stem and lemma. Parts of speech. What they signify.
   1923).
 - Chapters 3, 4, and 6 from L. A. Sherman, [*Analytics of Literature, a Manual for the
   Objective Study of English Prose and Poetry*][42] (Boston: Ginn, 1893).
-- "[Words on Words][43]" by David Kaplan in 2011 *Journal of Philosophy* 108 (9):504-529.
+- ~~"[Words on Words][43]" by David Kaplan in 2011 *Journal of Philosophy* 108 (9):504-529.~~
+- "[Types and Tokens][45]" by Linda Wetzel in the *Stanford Encyclopedia of Philosophy*
+
 
 [41]: https://ia903001.us.archive.org/3/items/handlingofwordso0000leev/handlingofwordso0000leev.pdf
 [42]: https://archive.org/download/in.ernet.dli.2015.184135/2015.184135.Analytics-Of-Literature.pdf
 [43]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/23142919
 [44]: https://courseworks2.columbia.edu/courses/183356/files?preview=18648121
+[45]: https://plato.stanford.edu/entries/types-tokens/
 
 Special guest, Professor Jessica E. Merrill, Columbia Slavic. Prepare Chapter 1: Comparative
 Philology from her book, on the [*Origins of Russian Literary Theory*.][44]
