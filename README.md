@@ -66,7 +66,7 @@ such as ChatGPT and Copilot, in class.
 
 ## Provisional Schedule & Reading List
 
-## Week 0: Introductions.
+### Week 0: Introductions
 
 Structure of the course. Policies, grading, requirements. What to expect. Experimental teaching
 of the course. (Lab on Fridays?)
