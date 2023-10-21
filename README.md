@@ -172,9 +172,7 @@ Worldview, folk belief, discourse, ideology. Thematic clustering.
 
 - Chapter 3, "[Morphemes and Words: Introduction to the Lexicon][61]" from the *Linguistics for Students of Literature* (1980) by Traugott Elizabeth Closs and Mary Louise Pratt. 
 - Kenton Rambsy, “[Jay Z’s American Gangster][62],” Black Camera 8, no. 2 (2017): 255–66.
-- Timothy R. Tangherlini et al., “[‘Mommy Blogs’ and the Vaccination Exemption Narrative:
-  Results From A Machine-Learning Approach for Story Aggregation on Parenting Social Media
-Sites][64],” JMIR Public Health and Surveillance 2, no. 2 (November 22, 2016).
+- 
 - "[The Technique of Semantics][63]" by John Firth in the *Transactions of the Philological Society*, November 1935.
 
 
@@ -189,48 +187,40 @@ Sites][64],” JMIR Public Health and Surveillance 2, no. 2 (November 22, 2016).
 - Selections from Kenton Rambsy, *The Geographies of African American Short Fiction* (Univ.
   Press of Mississippi, 2022).
 
-### Week 8: Syntax
+### Week 8: Metaphor
+
+
+### Week 9: Syntax
 
 Normalization, stemming, lemma vitiation. Lexical set intersection. Term frequency, inverse
 term frequencies.
 
 - Chapter 4, "[Syntax][71]" from the *Linguistics for Students of Literature* (1980) by Traugott Elizabeth Closs and Mary Louise Pratt.
 - “[On Sentence-Length as a Statistical Characteristic of Style in Prose: With Application to Two Cases of Disputed Authorship][81],” by G. Udny Yule in *Biometrika* 30, no. 3/4 (1939): 363–90.
+- Selections from Stanley Fish, *How to Write a Sentence: And How to Read One* (New York:
+  Harper Paperbacks, 2012).
 
   [71]: https://courseworks2.columbia.edu/courses/183356/files?preview=18812007
 
-### Week 9: Semantic Roles
+### Week 10: Semantic Roles
 
 Proper names. Named entities. Nouns and objects.
 
 - Chapter 5, "[Symantics: How Does a Sentece Mean?][71]" from the *Linguistics for Students of Literature* (1980) by Traugott Elizabeth Closs and Mary Louise Pratt.
 - "Distributed Agency in the Novel" by Dennis Yi Tenen in *New Literary History* (2023).
 
+### Week 11: Discourse
 
-### Week 10: Syntax
+- Timothy R. Tangherlini et al., “[‘Mommy Blogs’ and the Vaccination Exemption Narrative:
+  Results From A Machine-Learning Approach for Story Aggregation on Parenting Social Media
+Sites][64],” JMIR Public Health and Surveillance 2, no. 2 (November 22, 2016).
 
-What is a sentence. SVO. Length. Power dynamics.
-
-- Selections from Stanley Fish, *How to Write a Sentence: And How to Read One* (New York:
-  Harper Paperbacks, 2012).
-
-
-### Week 11: Parsing Sentences
-
-Learn to extant SVO structures from sentences. Brainstorm models.
-
-- Chapter 9, "Syntax: The Structure of Sentences" from *For the Love of Language: An
-  Introduction to Linguistics* by  Kate Burridge and Tonya N. Stebbins (Cambridge UP, 2019).
-- SVO Tutorial with Spacy.
-
-### Week 12: Speech Acts
-
-### Week 13: Discourse
+### Week 12: Corpus
 
 ---
 ## Formal Methods in Text Analysis II
 
-Voice > Style > Paragaph > Chapter > Plot, Narrative > Story > Document > Format > Genre > Periodical > Archive > Library
+Style, voice > Chapter > Plot, Narrative, Story > Document > Format > Book > Genre > Discourse > Periodical > Archive > Library
 
 ### Week 1: Narrative
 
