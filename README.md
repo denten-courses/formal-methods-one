@@ -166,11 +166,11 @@ by  Kate Burridge and Tonya N. Stebbins (Cambridge UP, 2019).~~
   [52]: https://courseworks2.columbia.edu/courses/183356/files?preview=18739161
   [53]: https://courseworks2.columbia.edu/courses/183356/files?preview=18739184
 
-### Week 6: Words 3
+### Week 6: Lexicon
 
 Worldview, folk belief, discourse, ideology. Thematic clustering.
 
-- "Morphemes and Words: Introduction to the Lexicon" from the [*Linguistics for Students of Literature*][61] (1980) by Traugott Elizabeth Closs and Mary Louise Pratt. 
+- Chapter 3, "[Morphemes and Words: Introduction to the Lexicon][61]" from the *Linguistics for Students of Literature* (1980) by Traugott Elizabeth Closs and Mary Louise Pratt. 
 - Kenton Rambsy, “[Jay Z’s American Gangster][62],” Black Camera 8, no. 2 (2017): 255–66.
 - Timothy R. Tangherlini et al., “[‘Mommy Blogs’ and the Vaccination Exemption Narrative:
   Results From A Machine-Learning Approach for Story Aggregation on Parenting Social Media
@@ -184,31 +184,26 @@ Sites][64],” JMIR Public Health and Surveillance 2, no. 2 (November 22, 2016).
 [64]: https://pubmed.ncbi.nlm.nih.gov/27876690/
 
 
-### Week 7: Syntax
-
-Normalization, stemming, lemma vitiation. Lexical set intersection. Term frequency, inverse
-term frequencies.
-
-- Chapter 5, "Morphology: The Structure of Words" from *For the Love of Language: An
-  Introduction to Linguistics* by  Kate Burridge and Tonya N. Stebbins (Cambridge UP, 2019).
-- Set intersection tutorial.
-
-### Week 8: Names
-
-Proper names. Named entities. Nouns and objects.
+### Week 7: Names and Networks
 
 - Searle, John R., 1958, “Proper Names”, Mind, 67(266): 166–173.
 - Selections from Kenton Rambsy, *The Geographies of African American Short Fiction* (Univ.
   Press of Mississippi, 2022).
 
-### Week 9: Mapping space and distances
+### Week 8: Syntax
 
-Types of space and distance. Document similarity. Clutter.
+Normalization, stemming, lemma vitiation. Lexical set intersection. Term frequency, inverse
+term frequencies.
 
-- Susan Grunewald and Andrew Janco, “[Finding Places in Text with the World Historical
-  Gazeteer][81],” Programming Historian, February 11, 2022.
-- Selections from Michel Marie Deza and Elena Deza, *Dictionary of Distances* (Elsevier
-  Science, 2006).
+- Chapter 4, "[Syntax][71]" from the *Linguistics for Students of Literature* (1980) by Traugott Elizabeth Closs and Mary Louise Pratt.
+
+  [71]: https://courseworks2.columbia.edu/courses/183356/files?preview=18812007
+
+### Week 9: Semantic Roles
+
+Proper names. Named entities. Nouns and objects.
+
+- Chapter 5, "[Symantics: How Does a Sentece Mean?][71]" from the *Linguistics for Students of Literature* (1980) by Traugott Elizabeth Closs and Mary Louise Pratt.
 
 [81]: https://programminghistorian.org/en/lessons/finding-places-world-historical-gazetteer
 
