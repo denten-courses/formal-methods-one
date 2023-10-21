@@ -230,7 +230,7 @@ Learn to extant SVO structures from sentences. Brainstorm models.
 ---
 ## Formal Methods in Text Analysis II
 
-Voice > Style > Paragaph > Chapter > Plot, Narrative > Story > Document > Periodical > Archive > Library
+Voice > Style > Paragaph > Chapter > Plot, Narrative > Story > Document > Format > Genre > Periodical > Archive > Library
 
 ### Week 1: Narrative
 
