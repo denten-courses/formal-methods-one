@@ -130,7 +130,7 @@ Lab 2:  Plain text. Counting letters.
 
 Lab 3: Versification.
 
-### Week 4: Words
+### Week 4: Words 1
 
 What is a word? Stem and lemma. Parts of speech. What they signify.
 
@@ -152,14 +152,13 @@ What is a word? Stem and lemma. Parts of speech. What they signify.
 Special guest, Professor Jessica E. Merrill, Columbia Slavic. Prepare Chapter 1: Comparative
 Philology from her book, on the [*Origins of Russian Literary Theory*.][44]
 
-
-### Week 5: Counting words
+### Week 5: Words 2
 
 Object flow approach. Understanding types. Basic control structures. Word counts.
 
 - “[Toward a Computational Archaeology of Fictional Space][51]” by DYT in *New Literary History* 49, no. 1 (2018): 119–47.
-- Chapter 4, "What's in a Word" from [*For the Love of Language: An Introduction to Linguistics*][52]
-by  Kate Burridge and Tonya N. Stebbins (Cambridge UP, 2019).
+- ~~Chapter 4, "What's in a Word" from [*For the Love of Language: An Introduction to Linguistics*][52]
+by  Kate Burridge and Tonya N. Stebbins (Cambridge UP, 2019).~~
 - Browse Chapter 2, on Words in Christopher D. Manning and Hinrich Schütze, [*Foundations of Statistical
   Natural Language Processing*][53], (Cambridge, Mass: The MIT Press, 1999).
 
@@ -167,18 +166,25 @@ by  Kate Burridge and Tonya N. Stebbins (Cambridge UP, 2019).
   [52]: https://courseworks2.columbia.edu/courses/183356/files?preview=18739161
   [53]: https://courseworks2.columbia.edu/courses/183356/files?preview=18739184
 
-### Week 6: Lexicon
+### Week 6: Words 3
 
 Worldview, folk belief, discourse, ideology. Thematic clustering.
 
-- Kenton Rambsy, “Jay Z’s American Gangster,” Black Camera 8, no. 2 (2017): 255–66.
-- Timothy R. Tangherlini et al., “‘Mommy Blogs’ and the Vaccination Exemption Narrative:
+- "Morphemes and Words: Introduction to the Lexicon" from the [*Linguistics for Students of Literature*][61] (1980) by Traugott Elizabeth Closs and Mary Louise Pratt. 
+- Kenton Rambsy, “[Jay Z’s American Gangster][62],” Black Camera 8, no. 2 (2017): 255–66.
+- Timothy R. Tangherlini et al., “[‘Mommy Blogs’ and the Vaccination Exemption Narrative:
   Results From A Machine-Learning Approach for Story Aggregation on Parenting Social Media
-Sites,” JMIR Public Health and Surveillance 2, no. 2 (November 22, 2016): e6586.
-- Teun A. van Dijk, “Discourse Analysis as Ideology Analysis,” in Language & Peace (Routledge,
-  1995).
+Sites][64],” JMIR Public Health and Surveillance 2, no. 2 (November 22, 2016).
+- "[The Technique of Semantics][63]" by John Firth in the *Transactions of the Philological Society*, November 1935.
 
-### Week 7: Sets and frequencies
+
+[61]: https://courseworks2.columbia.edu/courses/183356/files?preview=18811679
+[62]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/10.2979/blackcamera.8.2.15
+[63]: https://onlinelibrary.wiley.com/doi/10.1111/j.1467-968X.1935.tb01254.x
+[64]: https://pubmed.ncbi.nlm.nih.gov/27876690/
+
+
+### Week 7: Syntax
 
 Normalization, stemming, lemma vitiation. Lexical set intersection. Term frequency, inverse
 term frequencies.
@@ -192,8 +198,6 @@ term frequencies.
 Proper names. Named entities. Nouns and objects.
 
 - Searle, John R., 1958, “Proper Names”, Mind, 67(266): 166–173.
-- “Toward a Computational Archaeology of Fictional Space.” New Literary History 49, no. 1
-  (2018): 119–47.
 - Selections from Kenton Rambsy, *The Geographies of African American Short Fiction* (Univ.
   Press of Mississippi, 2022).
 
@@ -236,6 +240,8 @@ Story and plot arcs. Time and events. Authorship and authority.
   The Russian Review 22, no. 4 (1963): 377–99.
 - Selections from Inderjeet Mani, *The Imagined Moment: Time, Narrative, and Computation*
   (Lincoln: University of Nebraska Press, 2010).
+  - Teun A. van Dijk, “Discourse Analysis as Ideology Analysis,” in Language & Peace (Routledge,
+  1995).
 
 ### Week 13: Authorship and authority
 
