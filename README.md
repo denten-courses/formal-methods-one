@@ -93,7 +93,7 @@ Occam's razor (principle of parsimony, minimal viability).
 Lab 1: Intro to command line. File paths. Reading and writing files. Python by osmosis.
 Units of analysis: character, word, sentence, paragraph, story, plot, discourse, archive.
 
-## Week 2: Character
+### Week 2: Character
 
 What is a character? The history of (encoding) alphabets. Glyphs and hieroglyphs. Telegraph
 codes. Character encoding. Encoding politics. Universal code and universal language. What can
@@ -115,7 +115,7 @@ Lab 2:  Plain text. Counting letters.
 [23]: https://courseworks2.columbia.edu/courses/183356/files?preview=18358730
 [24]: https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1433/0414_Bk.pdf
 
-## Week 3: Syllable, meter
+### Week 3: Syllable, meter
 
 - Chapters 1-6 in Fussell's [*Poetic Meter & Poetic Form*][31] (1979).
 - "[Universal Tendencies in the Semantics of the Diminutive][33]" by Daniel Jurafsky in.
