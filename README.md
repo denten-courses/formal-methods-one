@@ -183,7 +183,6 @@ Sites][64],” JMIR Public Health and Surveillance 2, no. 2 (November 22, 2016).
 [63]: https://onlinelibrary.wiley.com/doi/10.1111/j.1467-968X.1935.tb01254.x
 [64]: https://pubmed.ncbi.nlm.nih.gov/27876690/
 
-
 ### Week 7: Names and Networks
 
 - Searle, John R., 1958, “Proper Names”, Mind, 67(266): 166–173.
@@ -196,6 +195,7 @@ Normalization, stemming, lemma vitiation. Lexical set intersection. Term frequen
 term frequencies.
 
 - Chapter 4, "[Syntax][71]" from the *Linguistics for Students of Literature* (1980) by Traugott Elizabeth Closs and Mary Louise Pratt.
+- “[On Sentence-Length as a Statistical Characteristic of Style in Prose: With Application to Two Cases of Disputed Authorship][81],” by G. Udny Yule in *Biometrika* 30, no. 3/4 (1939): 363–90.
 
   [71]: https://courseworks2.columbia.edu/courses/183356/files?preview=18812007
 
@@ -204,8 +204,8 @@ term frequencies.
 Proper names. Named entities. Nouns and objects.
 
 - Chapter 5, "[Symantics: How Does a Sentece Mean?][71]" from the *Linguistics for Students of Literature* (1980) by Traugott Elizabeth Closs and Mary Louise Pratt.
+- "Distributed Agency in the Novel" by Dennis Yi Tenen in *New Literary History* (2023).
 
-[81]: https://programminghistorian.org/en/lessons/finding-places-world-historical-gazetteer
 
 ### Week 10: Syntax
 
@@ -213,9 +213,7 @@ What is a sentence. SVO. Length. Power dynamics.
 
 - Selections from Stanley Fish, *How to Write a Sentence: And How to Read One* (New York:
   Harper Paperbacks, 2012).
-- G. Udny Yule, “On Sentence-Length as a Statistical Characteristic of Style in Prose: With
-  Application to Two Cases of Disputed Authorship,” Biometrika 30, no. 3/4 (1939): 363–90.
-- Yi Tenen, Dennis. "Distributed Agency in the Novel" in New Literary History (2023).
+
 
 ### Week 11: Parsing Sentences
 
@@ -225,7 +223,16 @@ Learn to extant SVO structures from sentences. Brainstorm models.
   Introduction to Linguistics* by  Kate Burridge and Tonya N. Stebbins (Cambridge UP, 2019).
 - SVO Tutorial with Spacy.
 
-### Week 12: Narrative
+### Week 12: Speech Acts
+
+### Week 13: Discourse
+
+---
+## Formal Methods in Text Analysis II
+
+Voice > Style > Paragaph > Chapter > Plot, Narrative > Story > Document > Periodical > Archive > Library
+
+### Week 1: Narrative
 
 Story and plot arcs. Time and events. Authorship and authority.
 
@@ -238,7 +245,7 @@ Story and plot arcs. Time and events. Authorship and authority.
   - Teun A. van Dijk, “Discourse Analysis as Ideology Analysis,” in Language & Peace (Routledge,
   1995).
 
-### Week 13: Authorship and authority
+### Week xxx: Authorship and authority
 
 Finding the author. Ways of establishing authority.
 
@@ -247,7 +254,7 @@ Finding the author. Ways of establishing authority.
 - Paul Rabinow, “Discourse and Power: On the Limits of Ethnographic Texts,” *Dialectical
   Anthropology* 10, no. 1/2 (1985): 1–13.
 
-### Week 14: Project Workshops
+### Week xxx: Project Workshops
 
 Topics not covered in this class. Change over time. Ways forward. Building models revisited.
 Plot, narrative. Readings on vectorization, topic modeling, network analysis.
