@@ -172,7 +172,6 @@ Worldview, folk belief, discourse, ideology. Thematic clustering.
 
 - Chapter 3, "[Morphemes and Words: Introduction to the Lexicon][61]" from the *Linguistics for Students of Literature* (1980) by Traugott Elizabeth Closs and Mary Louise Pratt. 
 - Kenton Rambsy, “[Jay Z’s American Gangster][62],” Black Camera 8, no. 2 (2017): 255–66.
-- 
 - "[The Technique of Semantics][63]" by John Firth in the *Transactions of the Philological Society*, November 1935.
 
 
