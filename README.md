@@ -182,9 +182,12 @@ Worldview, folk belief, discourse, ideology. Thematic clustering.
 
 ### Week 7: Names and Networks
 
+- Chapter IV on the "Literary Speech Situation" from [*Toward a Speech Act Theory of Literary Discourse*][71] by Mary Louise Pratt.
 - Searle, John R., 1958, “Proper Names”, Mind, 67(266): 166–173.
 - Selections from Kenton Rambsy, *The Geographies of African American Short Fiction* (Univ.
   Press of Mississippi, 2022).
+
+  [71]: https://courseworks2.columbia.edu/courses/183356/files?preview=18929208
 
 ### Week 8: Metaphor
 
