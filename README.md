@@ -194,12 +194,13 @@ Worldview, folk belief, discourse, ideology. Thematic clustering.
 
 - [Metaphors We Live By][82] (1980), pp. 3-52 by George Lakoff and Mark Johnson.
 - Chapters 1-7 in [*Illness as Metaphor*][83] (1977) by Susan Sontag.
-- "Why 'Dark Thoughts' Aren’t Really Dark: A Novel Algorithm for Metaphor Identification" in Computational Intelligence, Cognitive Algorithms, Mind, and Brain (CCMB) by Dan Assaf, Yair Neuman, Yohai Cohen, Shlomo Argamon, Newton Howard, Mark Last, Ophir Frieder, and Moshe Koppel.
+- "[Why 'Dark Thoughts' Aren’t Really Dark: A Novel Algorithm for Metaphor Identification][84]" in Computational Intelligence, Cognitive Algorithms, Mind, and Brain (CCMB) by Dan Assaf, Yair Neuman, Yohai Cohen, Shlomo Argamon, Newton Howard, Mark Last, Ophir Frieder, and Moshe Koppel.
 - Case study: [Computational Paremiology: Charting the temporal, ecological dynamics of proverb use in books, news articles, and tweets][81] from DHQ.
 
 [81]: https://www.digitalhumanities.org/dhq/vol/17/2/000676/000676.html
 [82]: https://courseworks2.columbia.edu/courses/183356/files?preview=18955592
 [83]: https://courseworks2.columbia.edu/courses/183356/files?preview=18955698
+[84]: https://ieeexplore-ieee-org.ezproxy.cul.columbia.edu/abstract/document/6609166/
 
 
 ### Week 9: Syntax
