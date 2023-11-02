@@ -184,13 +184,22 @@ Worldview, folk belief, discourse, ideology. Thematic clustering.
 
 - Chapter IV on the "Literary Speech Situation" from [*Toward a Speech Act Theory of Literary Discourse*][71] by Mary Louise Pratt.
 - Searle, John R., 1958, “[Proper Names][72]”, Mind, 67(266): 166–173.
-- Selections from Kenton Rambsy, *The Geographies of African American Short Fiction* (Univ.
-  Press of Mississippi, 2022).
+- ~~Selections from Kenton Rambsy, *The Geographies of African American Short Fiction* (Univ.
+  Press of Mississippi, 2022).~~
 
   [71]: https://courseworks2.columbia.edu/courses/183356/files?preview=18929208
   [72]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2251108
 
 ### Week 8: Metaphor
+
+- [Metaphors We Live By][82] (1980), pp. 3-52 by George Lakoff and Mark Johnson.
+- Chapters 1-7 in [*Illness as Metaphor*][83] (1977) by Susan Sontag.
+- "Why 'Dark Thoughts' Aren’t Really Dark: A Novel Algorithm for Metaphor Identification" in Computational Intelligence, Cognitive Algorithms, Mind, and Brain (CCMB) by Dan Assaf, Yair Neuman, Yohai Cohen, Shlomo Argamon, Newton Howard, Mark Last, Ophir Frieder, and Moshe Koppel.
+- Case study: [Computational Paremiology: Charting the temporal, ecological dynamics of proverb use in books, news articles, and tweets][81] from DHQ.
+
+[81]: https://www.digitalhumanities.org/dhq/vol/17/2/000676/000676.html
+[82]: https://courseworks2.columbia.edu/courses/183356/files?preview=18955592
+[83]: https://courseworks2.columbia.edu/courses/183356/files?preview=18955698
 
 
 ### Week 9: Syntax
