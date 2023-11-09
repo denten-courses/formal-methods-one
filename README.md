@@ -210,10 +210,10 @@ term frequencies.
 
 - Chapter 4, "[Syntax][71]" from the *Linguistics for Students of Literature* (1980) by Traugott Elizabeth Closs and Mary Louise Pratt.
 - “[On Sentence-Length as a Statistical Characteristic of Style in Prose: With Application to Two Cases of Disputed Authorship][81],” by G. Udny Yule in *Biometrika* 30, no. 3/4 (1939): 363–90.
-- Selections from Stanley Fish, *How to Write a Sentence: And How to Read One* (New York:
-  Harper Paperbacks, 2012).
+- Sections on "Grammar and Syntax," "Syncactic Arrangement," and and "Repetition" from the [*Elements of Legal Style*][72] by Brian Garner. 
 
   [71]: https://courseworks2.columbia.edu/courses/183356/files?preview=18812007
+  [72]: https://courseworks2.columbia.edu/courses/183356/files?preview=19015116
 
 ### Week 10: Semantic Roles
 
