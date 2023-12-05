@@ -220,7 +220,7 @@ term frequencies.
 
 Proper names. Named entities. Nouns and objects.
 
-- Chapter 5, "[Symantics: How Does a Sentece Mean?][71]" from the *Linguistics for Students of Literature* (1980) by Traugott Elizabeth Closs and Mary Louise Pratt.
+- Chapter 5, "[Semantics: How Does a Sentece Mean?][91]" from the *Linguistics for Students of Literature* (1980) by Traugott Elizabeth Closs and Mary Louise Pratt.
 - "Distributed Agency in the Novel" by Dennis Yi Tenen in *New Literary History* (2023).
 
 ### Week 11: Discourse
